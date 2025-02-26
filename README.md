@@ -1,5 +1,6 @@
 
 
+
 # <div align="center">Hi 👋, I'm <a href="https://bento.me/devt04" target="_blank">Linh Tran</a> (Wliafdew)</div>
 ## **💁‍♂️ Some infomations about me:**
 - 🎓 **I am a student of [FPT University](https://daihoc.fpt.edu.vn/)**
@@ -13,7 +14,13 @@
   - 😓 ***Soul Game***
   - 🗺 ***Network & System***
  
-<img height="500px" src="https://i.pinimg.com/originals/39/c4/06/39c40664e3245b04ea8f5c035cbd5c8a.gif"/>
+ ## ✳ **Profile Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thewind121212&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
+![thewind121212's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thewind121212&theme=nightowl&hide_border=false)
+
+
+
 
 ## **<img height="30px" img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/> Skills** 
 ### 👨‍💻 ***Languages***
@@ -97,10 +104,6 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&style=for-the-badge&logoColor=F0F0F0)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&style=for-the-badge&logoColor=white)
 
-## ✳ **Profile Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thewind121212&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
-![thewind121212's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thewind121212&theme=nightowl&hide_border=false)
 
 
 ## 📱**Contact**
