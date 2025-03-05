@@ -1,8 +1,12 @@
 
 
 
+
 # <div align="center">Hi 👋, I'm <a href="https://bento.me/devt04" target="_blank">Linh Tran</a> (Wliafdew)</div>
 ## **💁‍♂️ Some infomations about me:**
+- 🏠 **This is my Home page [HomePage](https://home.wliafdew.dev/)**
+- 🪪 **This is my Portfolio  [Portfolio](https://profile.wliafdew.dev/)**
+- 📜 **This is my CV (self host no virrus)  [CV](https://nextcloud.wliafdew.dev/s/d2n8bEKK4FJBDbW)**
 - 🎓 **I am a student of [FPT University](https://daihoc.fpt.edu.vn/)**
 - 👷‍♂️ **I am a ***Web Developer*****
 - ⚡ **I like ***playing game, coding, lisening to music, play instrument*****
@@ -109,4 +113,3 @@
 ## 📱**Contact**
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tranduylinh.linh.5/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tr%E1%BA%A7n-duy-linh-5988a5180/)
-
