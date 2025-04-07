@@ -3,19 +3,16 @@
 
 
 # <div align="center">Hi 👋, I'm <a href="https://bento.me/devt04" target="_blank">Linh Tran</a> (Wliafdew)</div>
+- 👷‍♂️ **I am a ***Full Stack Developer*****
 ## **-------------**
 - 🏠 **This is my Home page [HomePage](https://home.wliafdew.dev/)**
 - 🪪 **This is my Portfolio  [Portfolio](https://profile.wliafdew.dev/)**
 - 📜 **This is my CV (self host no virrus)  [CV](https://nextcloud.wliafdew.dev/s/d2n8bEKK4FJBDbW)**
 - 🎓 **I am a student of [FPT University](https://daihoc.fpt.edu.vn/)**
-- 👷‍♂️ **I am a ***Full Stack Developer*****
  
  ## ✳ **Profile Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thewind121212&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
-![thewind121212's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thewind121212&theme=nightowl&hide_border=false)
-
-
 
 
 ## **<img height="30px" img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/> Skills** 
