@@ -10,10 +10,6 @@
 - 📜 **This is my CV (self host no virrus)  [CV](https://nextcloud.wliafdew.dev/s/d2n8bEKK4FJBDbW)**
 - 🎓 **I am a student of [FPT University](https://daihoc.fpt.edu.vn/)**
  
- ## ✳ **Profile Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thewind121212&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
-
 
 ## **<img height="30px" img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/> Skills** 
 ### 👨‍💻 ***Languages***
