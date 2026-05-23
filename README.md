@@ -2,12 +2,12 @@
 
 
 
-# <div align="center">Hi 👋, I'm <a href="https://bento.me/devt04" target="_blank">Linh Tran</a> (Wliafdew)</div>
+# <div align="center">Hi 👋, I'm <a href="https://profile.wliafdew.dev" target="_blank">Linh Tran</a> (Wliafdew)</div>
 - 👷‍♂️ **I am a ***Full Stack Developer*****
 ## **-------------**
 - 🏠 **This is my Home page [HomePage](https://home.wliafdew.dev/)**
 - 🪪 **This is my Portfolio  [Portfolio](https://profile.wliafdew.dev/)**
-- 📜 **This is my CV (self host no virrus)  [CV](https://nextcloud.wliafdew.dev/s/d2n8bEKK4FJBDbW)**
+- 📜 **This is my CV (self host no virrus)  [CV](https://profile.wliafdew.dev/cv)**
 - 🎓 **I am a student of [FPT University](https://daihoc.fpt.edu.vn/)**
  
 
