@@ -46,6 +46,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linhdevtd99@gmail.com)
 
 
-  - Added GitHub thewind121212 (in CV header, missing in old)
-  - Added email contact badge
-  - Dropped Markdown badge (not on CV)
